@@ -51,20 +51,6 @@ body {
   color:rgb(146, 255, 197);
 }
 
-/* visited link */
-a:visited {
-  color:rgb(96, 250, 147);
-}
-
-/* mouse over link */
-a:hover {
-  color:rgb(57, 251, 148);
-}
-
-/* selected link */
-a:active {
-  color:rgb(44, 240, 136);
-} 
 
 /*skills*/
 
