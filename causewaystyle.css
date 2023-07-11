@@ -42,6 +42,12 @@ p {
     max-width: 800px;
 }
 
+.choice {
+  margin-right: 3em;
+  max-width: 800px;
+
+}
+
 body {
   background-color: #292625;  
 }
