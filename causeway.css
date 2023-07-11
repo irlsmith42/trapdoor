@@ -46,6 +46,26 @@ body {
   background-color: #292625;  
 }
 
+ /* unvisited link */
+ a:link {
+  color:rgb(146, 255, 197);
+}
+
+/* visited link */
+a:visited {
+  color:rgb(96, 250, 147);
+}
+
+/* mouse over link */
+a:hover {
+  color:rgb(57, 251, 148);
+}
+
+/* selected link */
+a:active {
+  color:rgb(52, 241, 140);
+} 
+
 /*skills*/
 
 .int {
