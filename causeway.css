@@ -47,7 +47,7 @@ body {
 }
 
  /* unvisited link */
- a:link {
+ a {
   color:rgb(146, 255, 197);
 }
 
