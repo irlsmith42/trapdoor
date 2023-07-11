@@ -1,0 +1,65 @@
+
+
+h1 {
+    text-align: center;
+    padding: 20px;
+    font-family: "Libre Baskerville", serif;
+    font-size: x-large;
+    color:rgb(233, 233, 233);
+
+  }
+  
+  h2 {
+    text-align: right;
+    padding-right: 50px;
+    font-family: "Libre Baskerville", serif;
+    font-size: medium;
+    color:rgb(233, 233, 233);
+  }
+
+  h3 {
+    text-align: center;
+    margin: auto;
+    font-family: "Libre Baskerville", serif;
+    font-size: medium;
+    color:rgb(146, 255, 197);
+  }
+p {
+    font-family: "Libre Baskerville", serif;
+    margin: 1.15em auto;
+    max-width: 900px;
+    orphans: inherit;
+    color:rgb(233, 233, 233);
+}
+
+.notebook {
+    margin: 2em auto;
+    max-width: 800px;
+}
+
+.skill {
+    margin: 2em auto;
+    max-width: 800px;
+}
+
+body {
+  background-color: #292625;  
+}
+
+/*skills*/
+
+.int {
+    color:rgb(87, 175, 215);
+}
+
+.fys {
+    color:rgb(220, 65, 138);
+}
+
+.mot {
+    color: rgb(234, 197, 30);
+}
+
+.psy {
+    color: rgb(175, 100, 215); 
+}
