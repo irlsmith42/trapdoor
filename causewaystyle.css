@@ -24,7 +24,13 @@ h1 {
     font-size: medium;
     color:rgb(146, 255, 197);
   }
-p {
+img {
+    text-align: center;
+    margin: 1em auto;
+    max-width: 100%;
+}
+
+  p {
     font-family: "Libre Baskerville", serif;
     margin: 1.15em auto;
     max-width: 900px;
