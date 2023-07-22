@@ -54,7 +54,23 @@ img {
 
 }
 
+.cushion {
+  height: 1000px;
+}
+
+.title {
+  margin: -4em auto;
+}
+
+.summary {
+  color:#b4c717;
+}
+
 body {
+  background-image: url(/images/causewaybg1.jpg);
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: contain;
   background-color: #292625;  
 }
 
