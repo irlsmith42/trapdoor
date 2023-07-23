@@ -1,5 +1,5 @@
 
-
+/* main text */
 h1 {
     text-align: center;
     padding: 20px;
@@ -51,11 +51,17 @@ img {
 .choice {
   margin-right: 3em;
   max-width: 800px;
-
 }
 
 .cushion {
   height: 1000px;
+}
+
+/*Page stuff */
+
+.toc {
+  text-align: center;
+  margin: 1em auto;
 }
 
 .title {
@@ -75,13 +81,11 @@ body {
 }
 
  /* unvisited link */
- a {
+a {
   color:rgb(146, 255, 197);
 }
 
-
 /*skills*/
-
 .int {
     color:rgb(87, 175, 215);
 }
