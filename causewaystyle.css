@@ -1,3 +1,4 @@
+:root { scroll-behavior: smooth; }
 
 /* main text */
 h1 {
@@ -54,12 +55,12 @@ img {
 }
 
 .cushion {
-  height: 1000px;
+  height: 90em;
 }
 
 /*Page stuff */
 
-.toc {
+#toc {
   text-align: center;
   margin: 1em auto;
 }
@@ -78,6 +79,15 @@ body {
   background-repeat: no-repeat;
   background-size: contain;
   background-color: #292625;  
+}
+
+button {
+  background-color: #46403f;
+  color:rgb(146, 255, 197);
+  padding: 1em;
+  border: none;
+  text-align: center;
+  font-size: 30px;
 }
 
  /* unvisited link */
