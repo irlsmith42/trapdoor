@@ -60,17 +60,17 @@ img {
 
 /*Page stuff */
 
-#toc {
-  text-align: center;
-  margin: 1em auto;
-}
-
 .title {
   margin: -4em auto;
 }
 
 .summary {
-  color:#b4c717;
+  background-image: linear-gradient(90deg,
+    #b49462 
+    #339c93);
+  background-size: 100%;
+  background-clip: text;
+  -webkit-text-fill-color: transparent; 
 }
 
 body {
