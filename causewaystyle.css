@@ -41,16 +41,20 @@ img {
 
 .notebook {
     margin: 2em auto;
+    padding-right: 2em;
     max-width: 800px;
+    min-width: none;
 }
 
 .skill {
     margin: 2em auto;
+    padding-right: 2em;
     max-width: 800px;
 }
 
 .choice {
   margin-right: 3em;
+  padding-right: 3em;
   max-width: 800px;
 }
 
@@ -70,11 +74,20 @@ img {
     #db9c6a,
     #b7ab91,
     #74b0a9,
-    #339c93);
+    #339c93,
+    #0f6d47);
   background-size: 100%;
   background-clip: text;
   -webkit-text-fill-color: transparent; 
   text-align: center;
+  outline-color: #0f6d47;
+  outline-style: ridge;
+  outline-width: 3px;
+  border-radius: .5em;
+  margin: 2.5em;
+  padding-bottom: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
 }
 
 body {
