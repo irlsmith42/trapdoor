@@ -72,7 +72,7 @@
     text-decoration: none;
 	text-align: center;
     text-transform: uppercase;
-    background-color: black;
+    background-color: #292625;
     color: #339c93;
     border: 1px solid white;
 }
@@ -90,8 +90,8 @@
 #c_inputDiv {
     margin-bottom: 15px;
     padding: 10px;
-    background-color: black;
-    border: 2px solid white;
+    background-color: #db9c6a;
+    border: 2px solid #2b744c;
 }
 
 #c_widgetTitle {
@@ -102,7 +102,7 @@
     font-style: italic;
     font-weight: bold;
     text-align: right;
-    background-color: #339c93;
+    background-color: #d17a0f;
 }
 
 .c-inputWrapper {
@@ -111,7 +111,7 @@
 }
 .c-input {
     padding: 4px;
-    color: black;
+    color: #292625;
     border: 1px solid #339c93;
 	outline: none;
 }
@@ -137,7 +137,7 @@
     margin-bottom: 15px;
     padding: 10px;
     border: 2px solid white;
-    background-color: #2D0B52; 
+    background-color: #da8610; 
 }
 .c-reply {
     display: block;
@@ -147,14 +147,14 @@
     margin-right: 0;
     padding: 10px;
     border: 2px solid white;
-    background-color: #2D0B52; 
+    background-color: #da8610; 
 }
 .c-reply:last-child {margin-bottom: 0;}
 .c-replyContainer {
     margin: -10px;
     margin-top: 10px;
     padding: 10px;
-    background-color: black;
+    background-color: #db9c6a;
 }
 
 .c-name {
@@ -184,7 +184,7 @@
     font-size: 14px;
     text-align: justify;
     color: white;
-    background-color: black;
+    background-color: #db9c6a;
 }
 
 /* Pagination */
