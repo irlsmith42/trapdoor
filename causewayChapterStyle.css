@@ -40,26 +40,25 @@ img {
 }
 
 .notebook {
-    margin: 2em auto;
-    padding-right: 2em;
-    max-width: 800px;
-    min-width: none;
+  margin: 2em auto;
+  padding-right: 2em;
+  width: 80vw;
 }
 
 .skill {
-    margin: 2em auto;
-    padding-right: 2em;
-    max-width: 800px;
+  margin: 2em auto;
+  padding-right: 2em;
+  width: 80vw;
 }
 
 .choice {
-  margin-right: 3em;
-  padding-right: 3em;
-  max-width: 800px;
+margin-right: 3em;
+padding-right: 3em;
+width: 70vw;
 }
 
 .cushion {
-  height: 2000px;
+  height: 1800px;
 }
 
 /*Page stuff */
