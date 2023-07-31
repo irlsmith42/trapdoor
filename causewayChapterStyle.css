@@ -1,0 +1,107 @@
+:root { scroll-behavior: smooth; }
+
+/* main text */
+h1 {
+    text-align: center;
+    padding: 20px;
+    font-family: "Libre Baskerville", serif;
+    font-size: x-large;
+    color:rgb(146, 255, 197);
+
+  }
+  
+  h2 {
+    text-align: right;
+    padding-right: 51px;
+    font-family: "Libre Baskerville", serif;
+    font-size: medium;
+    color:rgb(233, 233, 233);
+  }
+
+  h3 {
+    text-align: center;
+    margin: auto;
+    font-family: "Libre Baskerville", serif;
+    font-size: medium;
+    color:rgb(146, 255, 197);
+  }
+img {
+    text-align: center;
+    margin: 1em auto;
+    max-width: 100%;
+}
+
+  p {
+    font-family: "Libre Baskerville", serif;
+    margin: 1.15em auto;
+    max-width: 900px;
+    orphans: inherit;
+    color:rgb(233, 233, 233);
+}
+
+.notebook {
+    margin: 2em auto;
+    padding-right: 2em;
+    max-width: 800px;
+    min-width: none;
+}
+
+.skill {
+    margin: 2em auto;
+    padding-right: 2em;
+    max-width: 800px;
+}
+
+.choice {
+  margin-right: 3em;
+  padding-right: 3em;
+  max-width: 800px;
+}
+
+.cushion {
+  height: 2000px;
+}
+
+/*Page stuff */
+
+.title {
+  margin: -4em auto;
+}
+
+body {
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: #292625;  
+}
+
+button {
+  background-color: #46403f;
+  color:rgb(146, 255, 197);
+  padding: 1em;
+  border: none;
+  text-align: center;
+  font-size: 30px;
+}
+
+ /* unvisited link */
+a {
+  color:rgb(146, 255, 197);
+}
+
+/*skills*/
+.int {
+    color:rgb(87, 175, 215);
+}
+
+.fys {
+    color:rgb(220, 65, 138);
+}
+
+.mot {
+    color: rgb(234, 197, 30);
+}
+
+.psy {
+    color: rgb(175, 100, 215); 
+}
