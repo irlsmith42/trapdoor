@@ -1,0 +1,102 @@
+:root { scroll-behavior: smooth; }
+
+/* main text */
+h1 {
+    text-align: center;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color:rgb(146, 255, 197);
+
+  }
+  
+  h2 {
+    text-align: right;
+    padding-right: 51px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    color:rgb(233, 233, 233);
+  }
+
+  h3 {
+    text-align: center;
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    color:rgb(146, 255, 197);
+  }
+
+
+  p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 1.15em auto;
+    max-width: 900px;
+    orphans: inherit;
+    color:rgb(233, 233, 233);
+}
+
+.item1 { grid-area: header; }
+.item2 { grid-area: menu; }
+.item3 { grid-area: main; }
+.item4 { grid-area: right; }
+.item5 { grid-area: footer; }
+
+.grid-container {
+  display: grid;
+  grid-template:
+    'header header header header header header'
+    'menu main main main right right'
+    'menu footer footer footer footer footer';
+}
+
+.cushion {
+  height: 90vh;
+}
+
+/*Page stuff */
+
+.title {
+  margin: -4em auto;
+}
+
+.summary {
+  background-image: linear-gradient(180deg,
+    #f98f38,
+    #339c93,
+    );
+  background-size: 100%;
+  background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  text-align: center;
+  outline-color: #0f6d47;
+  outline-style: ridge;
+  outline-width: 3px;
+  border-radius: .5em;
+  margin: 2.5em;
+  padding-bottom: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  font-weight: bold;
+}
+
+body {
+  background-image: url(images/causewaybg.jpg);
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: #292625;  
+}
+
+button {
+  background-color: #46403f;
+  color:rgb(146, 255, 197);
+  padding: 1em;
+  border: none;
+  text-align: center;
+  font-size: 30px;
+}
+
+ /* unvisited link */
+a {
+  color:rgb(146, 255, 197);
+}
