@@ -76,6 +76,8 @@ body {
   background-size: contain;
   background-repeat: no-repeat;
   height: 1920px;
+  width: 1920px;
+
 }
 
 .chapter3Pic {
@@ -83,6 +85,8 @@ body {
   background-size: contain;
   background-repeat: no-repeat;
   height: 1920px;
+  width: 1920px;
+
 }
 
 .chapter4Pic {
@@ -90,6 +94,7 @@ body {
   background-size: contain;
   background-repeat: no-repeat;
   height: 1920px;
+  width: 1920px;
 }
 
 .chapter5Pic {
@@ -104,6 +109,8 @@ body {
   background-size: contain;
   background-repeat: no-repeat;
   height: 1920px;
+  width: 1920px;
+
 }
 
 .chapter7Pic {
@@ -111,6 +118,8 @@ body {
   background-size: contain;
   background-repeat: no-repeat;
   height: 1920px;
+  width: 1920px;
+
 }
 
 button {
