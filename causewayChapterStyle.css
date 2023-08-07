@@ -58,7 +58,7 @@ width: 70vw;
 }
 
 .cushion {
-  height: 1620px;
+  height: 1920px;
 }
 
 /*Page stuff */
@@ -68,10 +68,49 @@ width: 70vw;
 }
 
 body {
-  background-position: top;
-  background-repeat: no-repeat;
-  background-size: contain;
   background-color: #292625;  
+}
+
+.chapter2Pic {
+  background-image: url('images/causewayCh2.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1920px;
+}
+
+.chapter3Pic {
+  background-image: url('images/causewayCh3.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1920px;
+}
+
+.chapter4Pic {
+  background-image: url('images/causewayCh4.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1920px;
+}
+
+.chapter5Pic {
+  background-image: url('images/causewayCh5.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1920px;
+}
+
+.chapter6Pic {
+  background-image: url('images/causewayCh6.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1920px;
+}
+
+.chapter7Pic {
+  background-image: url('images/causewayCh7.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1920px;
 }
 
 button {
