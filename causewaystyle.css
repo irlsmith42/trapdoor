@@ -112,19 +112,20 @@ a {
   color:rgb(146, 255, 197);
 }
 
-/*skills*/
-.int {
-    color:rgb(87, 175, 215);
+/*toc*/
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
 }
 
-.fys {
-    color:rgb(220, 65, 138);
+/* Create 3 equal columns that sit next to each other */
+.column {
+  flex: 30%;
+  padding: 0 2px;
 }
 
-.mot {
-    color: rgb(234, 197, 30);
-}
-
-.psy {
-    color: rgb(175, 100, 215); 
+.column img {
+  margin-top: -12px;
+  vertical-align: middle;
 }
