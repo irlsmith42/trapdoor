@@ -57,9 +57,41 @@ padding-right: 3em;
 width: 70vw;
 }
 
-.cushion {
-  height: 1920px;
+ /* Extra small devices (phones, 600px and down) */
+ @media only screen and (max-width: 600px) {
+  .cushion {
+    height: 900px;
+  }
+ }
+
+ /* Small devices (portrait tablets and large phones, 600px and up) */
+ @media only screen and (min-width: 600px) {
+  .cushion {
+    height: 1500px;
+  }
+ }
+ 
+ /* Medium devices (landscape tablets, 768px and up) */
+ @media only screen and (min-width: 768px) {  
+    .cushion {
+      height: 1920px;
+    }
 }
+ 
+ /* Large devices (laptops/desktops, 992px and up) */
+ @media only screen and (min-width: 992px) {
+  .cushion {
+    height: 1920px;
+  }
+}
+ 
+ /* Extra large devices (large laptops and desktops, 1200px and up) */
+ @media only screen and (min-width: 1200px) {
+  .cushion {
+    height: 2520px;
+  }
+ } 
+
 
 /*Page stuff */
 
@@ -69,57 +101,6 @@ width: 70vw;
 
 body {
   background-color: #292625;  
-}
-
-.chapter2Pic {
-  background-image: url('images/causewayCh2.jpg');
-  background-size: contain;
-  background-repeat: no-repeat;
-  height: 1920px;
-  width: 1920px;
-
-}
-
-.chapter3Pic {
-  background-image: url('images/causewayCh3.jpg');
-  background-size: contain;
-  background-repeat: no-repeat;
-  height: 1920px;
-  width: 1920px;
-
-}
-
-.chapter4Pic {
-  background-image: url('images/causewayCh4.jpg');
-  background-size: contain;
-  background-repeat: no-repeat;
-  height: 1920px;
-  width: 1920px;
-}
-
-.chapter5Pic {
-  background-image: url('images/causewayCh5.jpg');
-  background-size: contain;
-  background-repeat: no-repeat;
-  height: 1920px;
-}
-
-.chapter6Pic {
-  background-image: url('images/causewayCh6.jpg');
-  background-size: contain;
-  background-repeat: no-repeat;
-  height: 1920px;
-  width: 1920px;
-
-}
-
-.chapter7Pic {
-  background-image: url('images/causewayCh7.jpg');
-  background-size: contain;
-  background-repeat: no-repeat;
-  height: 1920px;
-  width: 1920px;
-
 }
 
 button {
