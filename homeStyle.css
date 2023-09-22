@@ -1,0 +1,115 @@
+
+html { font-size: 22px; }
+
+img {
+  max-width: 300px;
+}
+
+.summary {
+  background-image: linear-gradient(180deg,
+    #db9c6a,
+    #db9c6a,
+    #b7ab91,
+    #74b0a9,
+    #339c93,
+    #0f6d47);
+  background-size: 100%;
+  background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  text-align: center;
+  outline-color: #0f6d47;
+  outline-style: ridge;
+  outline-width: 3px;
+  border-radius: .5em;
+  margin: 2.5em;
+  padding-bottom: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  font-weight: bold;
+}
+
+body {
+  background-image: url(home/background.png);
+  background-position: top;
+  background-repeat: repeat;
+  background-size: contain;
+  background-color: #1dbb89;  
+}
+
+button {
+  background-color: #46403f;
+  color:rgb(146, 255, 197);
+  padding: 1em;
+  border: none;
+  text-align: center;
+  font-size: 30px;
+}
+
+ /* unvisited link */
+a {
+  color:rgb(146, 255, 197);
+}
+
+
+/*toc*/
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+ /* Extra small devices (phones, 600px and down) */
+ @media only screen and (max-width: 600px) {
+  .column {
+    width: 100vw;
+    padding: 8px 2px;
+  }
+ }
+
+ /* Small devices (portrait tablets and large phones, 600px and up) */
+ @media only screen and (min-width: 600px) {
+  .column {
+    width: 50%;
+    padding: 8px 2px;
+  }
+  
+ }
+ 
+ /* Medium devices (landscape tablets, 768px and up) */
+ @media only screen and (min-width: 768px) {  
+  .column {
+    flex: 30%;
+    padding: 8px 2px;
+  }
+  
+}
+ 
+ /* Large devices (laptops/desktops, 992px and up) */
+ @media only screen and (min-width: 992px) {
+  .column {
+    flex: 30%;
+    padding: 8px 2px;
+  }
+  
+}
+ 
+ /* Extra large devices (large laptops and desktops, 1200px and up) */
+ @media only screen and (min-width: 1200px) {
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 8px 4px;
+  }
+
+  .column {
+    flex: 20%;
+    padding: 8px 2px;
+  }
+  
+ } 
+
+/* Create 3 equal columns that sit next to each other */
+
+.column img {
+  margin-top: 10px;
+  vertical-align: middle;
+}
