@@ -155,8 +155,6 @@ a {
 /*thoughts*/
 
 .buff {
-  margin: 2em auto;
-  padding-right: 2em;
-  width: 80vw;
+  margin-right: 10vw;
   color:rgb(137, 251, 213);
 }
