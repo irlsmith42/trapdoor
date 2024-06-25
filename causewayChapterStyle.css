@@ -144,12 +144,9 @@ a {
   width: 70vw;
 }
 
-.actionChoice {
+mark {
   background-color:#d7431f;
   color:#fffefd;
-  margin-right: 3em;
-  padding-right: 3em;
-  width: 70vw;
 }
 
 /*thoughts*/

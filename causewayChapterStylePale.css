@@ -127,18 +127,15 @@ a {
 
 /*actions*/
 .action {
-  color: #d7431f;
+  color: #56df0c;
   margin-right: 3em;
   padding-right: 3em;
   width: 70vw;
 }
 
-.actionChoice {
-  background-color:#d7431f;
+mark {
+  background-color:#56df0c;
   color:#fffefd;
-  margin-right: 3em;
-  padding-right: 3em;
-  width: 70vw;
 }
 
 /*thoughts*/
