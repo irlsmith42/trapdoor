@@ -1,0 +1,44 @@
+:root { scroll-behavior: smooth; }
+
+/* main text */
+h1 {
+  font-size: x-large;
+  color:rgb(3, 101, 49);
+  }
+  
+ h2 {
+  font-family: serif;
+  font-size: medium;
+  color:rgb(3, 23, 123);
+  }
+
+h3 {
+  text-align: center;
+  margin: auto;
+  font-family: "Libre Baskerville", serif;
+  font-size: medium;
+  color:rgb(7, 92, 47);
+  }
+img {
+  text-align: center;
+  margin: 1em auto;
+  max-width: 80vw;
+}
+
+p {
+  font-family: serif;
+  font-size: large;
+  margin: 1em 2em;
+  max-width: 900px;
+  orphans: inherit;
+  color:rgb(0, 0, 0);
+}
+
+.title {
+  margin: -4em auto;
+}
+
+ /* unvisited link */
+a {
+  color:rgb(8, 178, 87);
+}
