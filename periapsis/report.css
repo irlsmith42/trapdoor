@@ -1,0 +1,56 @@
+/*main text*/
+body {
+    margin: 4em;
+}
+
+p {
+    font-family: "Nanum Gothic Coding", Courier, monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;    
+    margin: 1.15em auto;
+    text-align: justify;
+}
+
+h1 {
+    font-family: "PT Mono", Courier, monospace;
+    color:rgb(2, 2, 73);
+}
+
+h2 {
+    font-family: "PT Mono", Courier, monospace;
+    font-size: larger;
+    color:rgb(1, 1, 45);
+}
+
+.caption {
+    text-align: center;
+    font-style: italic;
+    font-size: small;
+    padding: 0;
+}
+
+.dialogueH {
+    padding: 1em;
+    margin: auto;
+    width: 60vw;
+    font-family: "Inter Tight", Courier, monospace;
+  }
+
+.dialogueN {
+    padding: 1em;
+    width: 60vw;
+    margin: auto 8em;
+    font-family: "Inter Tight", Courier, monospace;
+  }
+
+
+.table {
+    flex-direction: row;
+    margin: auto;
+}
+
+img {
+    text-align: center;
+    margin: auto;
+    max-width: 80vw;
+}
