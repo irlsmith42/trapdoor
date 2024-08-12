@@ -36,15 +36,15 @@ h2 {
 
 .dialogueH {
     padding: 1em;
-    margin: auto;
-    width: 40vw;
+    margin: auto 10vw;
+    max-width: 40vw;
     font-family: "Inter Tight", Courier, monospace;
   }
 
 .dialogueN {
     padding: 1em;
-    width: 60vw;
-    margin: auto 10vw;
+    margin: auto 15vw;
+    max-width: 50vw;
     font-family: "Inter Tight", Courier, monospace;
   }
 
