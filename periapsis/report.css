@@ -56,9 +56,7 @@ h2 {
     margin:0px auto;
 }
 .tg td{
-    border-color:rgba(0, 0, 0, 0.694);
     border-style:hidden;
-    border-width:1px;
     font-family:"Courier New", Courier, monospace;
     font-size:13px;
     overflow:visible;
@@ -66,9 +64,7 @@ h2 {
     word-break:normal;
 }
 .tg th{
-    border-color:rgba(0, 0, 0, 0.694);
     border-style:hidden;
-    border-width:1px;
     font-family:"Courier New", Courier, monospace;
     font-size:13px;
     font-weight:normal;
@@ -78,7 +74,6 @@ h2 {
 }
 .tg .tg-ot3d{
     background-color:#DCE8FE;
-    border-color:rgba(0, 0, 0, 0.694);
     border-style:hidden;
     color:#000000;
     font-family:"Courier New", Courier, monospace !important;
@@ -86,7 +81,6 @@ h2 {
     vertical-align:middle;
     }
 .tg .tg-9qtj{
-    border-color:rgba(0, 0, 0, 0.694);
     border-style:hidden;
     color:#000000;
     font-family:"Courier New", Courier, monospace !important;
@@ -95,7 +89,6 @@ h2 {
     }
 .tg .tg-2fx1{
     background-color:#C9DAF8;
-    border-color:rgba(0, 0, 0, 0.694);
     border-style:hidden;
     color:#000000;
     font-family: "Courier New", Courier, monospace !important;
@@ -104,7 +97,6 @@ h2 {
     }
 .tg .tg-m7xg{
     background-color:#A4C2F4;
-    border-color:rgba(0, 0, 0, 0.694);
     border-style:hidden;
     color:#000000;
     font-family: "Courier New", Courier, monospace !important;
@@ -113,7 +105,6 @@ h2 {
     }
 .tg .tg-s94p{
     background-color:#C9DAF8;
-    border-color:rgba(0, 0, 0, 0.694);
     border-style:hidden;
     color:#000000;
     font-family: "Courier New", Courier, monospace !important;
@@ -122,7 +113,6 @@ h2 {
     }
 .tg .tg-kdyn{
     background-color:#C9DAF8;
-    border-color:rgba(0, 0, 0, 0.694);
     border-style:hidden;
     color:#000000;
     font-family: "Courier New", Courier, monospace !important;
@@ -132,7 +122,6 @@ h2 {
     }
 .tg .tg-8gl1{
     background-color:#ECF3FF;
-    border-color:rgba(0, 0, 0, 0.694);
     border-style:hidden;
     color:#000000;
     font-family: "Courier New", Courier, monospace !important;
@@ -142,7 +131,6 @@ h2 {
    }
 .tg .tg-gbr3{
     background-color:#ECF3FF;
-    border-color:rgba(0, 0, 0, 0.694);
     border-style:hidden;
     color:#000000;
     font-family: "Courier New", Courier, monospace !important;
