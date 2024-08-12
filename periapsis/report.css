@@ -9,6 +9,7 @@ p {
     font-weight: 400;    
     margin: 1.15em auto;
     text-align: justify;
+    line-height: 130%;
 }
 
 h1 {
@@ -44,10 +45,12 @@ h2 {
   }
 
 
-.table {
+.tableOrbit {
     flex-direction: row;
     margin: auto;
 }
+
+
 
 img {
     text-align: center;
