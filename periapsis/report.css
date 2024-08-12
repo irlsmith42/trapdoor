@@ -28,6 +28,7 @@ h2 {
     font-style: italic;
     font-size: small;
     padding: 0;
+    max-width: 70vw;
 }
 
 .dialogueH {
@@ -40,7 +41,7 @@ h2 {
 .dialogueN {
     padding: 1em;
     width: 60vw;
-    margin: auto 8em;
+    margin: auto 10vw;
     font-family: "Inter Tight", Courier, monospace;
   }
 
@@ -120,15 +121,7 @@ h2 {
     text-align:left;
     vertical-align: middle;
     }
-.tg .tg-8gl1{
-    background-color:#ECF3FF;
-    border-style:hidden;
-    color:#000000;
-    font-family: "Courier New", Courier, monospace !important;
-    font-size:medium;
-    text-align:left;
-    vertical-align:middle;
-   }
+
 .tg .tg-gbr3{
     background-color:#ECF3FF;
     border-style:hidden;
@@ -141,7 +134,6 @@ h2 {
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}
 
 img {
-    flex: content;
     margin: auto;
-    max-width: 80vw;
+    max-width: 90vw;
 }
