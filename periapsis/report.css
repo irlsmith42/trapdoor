@@ -20,6 +20,7 @@ h1 {
 h2 {
     font-family: "PT Mono", Courier, monospace;
     font-size: larger;
+    font-style: normal;
     color:rgb(1, 1, 45);
 }
 
