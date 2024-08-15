@@ -5,7 +5,7 @@ h1 {
     text-align: center;
     padding: 20px;
     font-family: "Libre Baskerville", serif;
-    font-size: x-large;
+    font-size: 20;
     color:rgb(146, 255, 197);
 
   }
@@ -43,7 +43,7 @@ img {
   margin: 2em auto;
   padding-left: 3em;
   max-width: 900px;
-
+  font-style: italic;
 }
 
 .skill {
@@ -142,14 +142,26 @@ a {
   margin-right: 3em;
   padding-right: 3em;
   width: 70vw;
+  font-weight: bold;
 }
 
-mark {
+.decision {
   background-color:#d7431f;
   color:#fffefd;
+  font-weight: bold;
+  padding: .2em;
 }
 
 /*thoughts*/
+
+.thought { 
+text-align: center;
+margin: auto;
+font-family: "Libre Baskerville", serif;
+font-size: larger;
+font-weight: bold;
+color:rgb(146, 255, 197);
+}
 
 .buff {
   margin-right: 10vw;
