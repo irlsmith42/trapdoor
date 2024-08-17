@@ -7,7 +7,7 @@
 /* main text */
 h1 {
   font-family: "DM Serif Display", serif;
-  font-weight: 400;
+  font-weight: 100;
   font-size: xx-large;
   color:rgb(3, 101, 49);
   text-align: center;
@@ -30,6 +30,7 @@ h3 {
   font-size: medium;
   color:rgb(7, 188, 10);
   }
+
 img {
   text-align: center;
   margin: 1em auto;
@@ -43,7 +44,7 @@ p {
   margin: 1em 2em;
   max-width: 900px;
   orphans: inherit;
-  line-height: 115%;
+  line-height: 125%;
   color:rgb(0, 0, 0);
 }
 
@@ -52,15 +53,11 @@ p.flashback {
   line-height: normal;
 }
 
-.title {
-  margin: -4em auto;
-}
-
-.epigraph {
+p.epigraph {
   font-family: "DM Serif Display", serif;
-  font-size: large;
-  margin: 1em auto;
-  max-width: 450px;
+  margin: 1.5em auto;
+  max-width: 550px;
+  font-weight: 100;
   color:rgb(67, 67, 67);
 }
 
